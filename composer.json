@@ -22,7 +22,7 @@
 		"php": ">=5.4.0",
 		"symfony/http-kernel": "~2.5.12|~2.6.8|~2.7",
 		"league/route": "~1.0",
-		"league/container": "~1.0",
+		"league/container": "~1.1",
 		"league/event": "~2.1",
 		"monolog/monolog": "~1.12"
 	},
